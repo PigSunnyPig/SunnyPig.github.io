@@ -1,5 +1,5 @@
 {
-    "version": "3.2.0",
-    "changelog": "Fix bugs.",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.2/HITMAN.3.-.Better.Localisation.3.2.zip"
+    "version": "3.2.1",
+    "changelog": "扩展文本的优化范围，现已包含升级契约及 ETA 街机；亦修复了部分错误翻译。另顺带作「自动更新」的测试。",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.2.1/HITMAN.3-Better.Localisation-3.2.1.zip"
 }
