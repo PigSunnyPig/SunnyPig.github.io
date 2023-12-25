@@ -1,5 +1,5 @@
 {
-    "version": "3.2.1",
-    "changelog": "扩展文本的优化范围，现已包含升级契约及 ETA 街机；亦修复了部分错误翻译。另顺带作「自动更新」的测试。",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.2.1/HITMAN.3-Better.Localisation-3.2.1.zip"
+    "version": "3.2.2",
+    "changelog": "修复「HWK21 街头消音器」的错误命名，更正为「ICA19」；改善部分起始位置的描述，使其更为准确；优化训练关丶巴黎丶曼谷丶北海道丶迪拜及重庆的伪装名字。",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.2.2/HITMAN.3-Better.Localisation-3.2.2.zip"
 }
