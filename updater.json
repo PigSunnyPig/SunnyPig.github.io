@@ -1,5 +1,5 @@
 {
-    "version": "3.2.2",
-    "changelog": "修复「HWK21 街头消音器」的错误命名，更正为「ICA19」；改善部分起始位置的描述，使其更为准确；优化训练关丶巴黎丶曼谷丶北海道丶迪拜及重庆的伪装名字。",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.2.2/HITMAN.3-Better.Localisation-3.2.2.zip"
+    "version": "3.3.0",
+    "changelog": "为第一季ET增加字幕；完善第三季主线的所有伪装名字；改进进程，不须再消除「cache」文件夹。",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.0/HITMAN.3-Better.Localisation-3.3.0.zip"
 }
