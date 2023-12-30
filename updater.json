@@ -1,5 +1,5 @@
 {
-    "version": "3.3.0",
-    "changelog": "为第一季ET增加字幕；完善第三季主线的所有伪装名字；改进进程，不须再消除「cache」文件夹。",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.0/HITMAN.3-Better.Localisation-3.3.0.zip"
+    "version": "3.3.1",
+    "changelog": "为第一季ET增加字幕；完善第三季主线的所有伪装名字；改进进程，不须再消除「cache」文件夹；修复了一些BUG。",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.1/HITMAN.3-Better.Localisation-3.3.1.zip"
 }
