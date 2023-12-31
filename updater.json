@@ -1,5 +1,5 @@
 {
-    "version": "3.3.3",
-    "changelog": "修改一代的部分任务简报；完善三代的所有伪装；修复BUG。",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.3/HITMAN.3-Better.Localisation-3.3.3.zip"
+    "version": "3.3.4",
+    "changelog": "完善一代主线的所有动画字幕及任务简报字幕；优化二代主线的部分对话字幕及任务简报字幕；为欠缺简中字幕的 ET 增加优化过后的字幕；微调文本内容。",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.4/HITMAN.3-Better.Localisation-3.3.4.zip"
 }
