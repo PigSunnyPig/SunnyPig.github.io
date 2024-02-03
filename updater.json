@@ -1,5 +1,5 @@
 {
-    "version": "3.3.8",
-    "changelog": "优化任务的名称，主要针对繁中；增加「字体优化」选项；增加 MOD 的效果展示图；修复BUG。",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.8/HITMAN.3-Better.Localisation-3.3.8.zip"
+    "version": "3.3.9",
+    "changelog": "微调文本内容；修复BUG。",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.3.9/HITMAN.3-Better.Localisation-3.3.9.zip"
 }
