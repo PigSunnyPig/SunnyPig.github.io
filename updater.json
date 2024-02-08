@@ -1,5 +1,5 @@
 {
     "version": "3.4.0",
-    "changelog": "增加「图片客制化选项」选项，针对游戏里的少数图片作出修改；修复BUG。",
+    "changelog": "增加「图片客制化选项」选项，针对游戏里的少数图片作出修改；修复BUG。(注意：所改动的选项将需要手动重新打开。)",
     "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/3.4.0/HITMAN.3-Better.Localisation-3.4.0.zip"
 }
