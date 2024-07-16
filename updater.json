@@ -1,5 +1,5 @@
 {
-    "version": "4.1.1",
-    "changelog": "[本 MOD 现已上传至 N 网！] 优化「破坏者」ET 的相关内容，包括装备、服装及任务简报；优化近期更新的全部挑战文本；修改原版中部分 NPC 的错误名字；新增「契约」进阶优化选项，供使用者自由选择风格；修复 BUG。(注意：所改动的选项或需要手动重新打开。)",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/4.1.1/HITMAN.3-Better.Localisation-4.1.1.zip"
+    "version": "4.1.2",
+    "changelog": "[本 MOD 现已上传至 N 网！] 一次适配的更新：尝试对孔雀服进行适配；优化并改进选项(5)「契约模式」及(9)「自由职业者模式」的内容；修复bug。(注意：所改动的选项将需要手动重新打开。)",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/4.1.2/HITMAN.3-Better.Localisation-4.1.2.zip"
 }
