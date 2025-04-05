@@ -1,5 +1,5 @@
 {
-    "version": "4.3.4",
-    "changelog": "[图片个性化修改 MOD 现已发布至 N 网！] 优化是次更新的文本内容；修正更多原版的错误文本。(注意：所改动的选项或将需要手动重新打开。)",
-    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/4.3.4/HITMAN.3-Better.Localisation-4.3.4.zip"
+    "version": "4.3.5",
+    "changelog": "优化是次更新的隐藏挑战文本内容，进阶版本已包含完成条件；进一步完善选项(2)-装备与武器的文本，包含重新分配道具的分类并加入「Painkiller」的汉化文本；更新「Peacock Plus」的汉化文本；更新「Heritage UI」的汉化文本；更新「Black Market Suppliers」的汉化文本；修正更多原版的错误文本；修复 bugs。(注意：更新内容或将需要清除 cache 文件夹才能生效。)",
+    "url": "https://github.com/PigSunnyPig/SunnyPig.Better-Localisation/releases/download/4.3.5/HITMAN.3-Better.Localisation-4.3.5.zip"
 }
